@@ -1,6 +1,7 @@
 body{
 	text-align: center;
-	background-image: url ("/Lena-maleri/image/bilde.jpg");
-h1{
-	color: pink;
+	background-image: url("/Lena-maleri/image/bilde.jpg");
+}
+h1 {
+	color:  pink;
 }
